@@ -1,7 +1,7 @@
 {
-  "name": "web-speech-ai",
+  "name": "sophia ai",
   "version": "1.0.0",
-  "description": "Simple AI Chat Bot Demo with Web Speech API",
+  "description": "maths chatbot with mathsolver",
   "main": "index.js",
   "scripts": {
     "start": "nf start",
